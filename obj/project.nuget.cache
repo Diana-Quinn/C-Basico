@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnxW2l4d6k5y9EHfFG59D/aakVgTddeWp7nAgiBDNmkdjoBfpd++cT3VmxbBJ9VSWLaamgTY7HWpQKuOrCbUNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\CursoNet\\IntroConsole\\IntroConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\humanizer.core.es\\2.14.1\\humanizer.core.es.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
